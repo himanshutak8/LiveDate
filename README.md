@@ -1,6 +1,8 @@
 # LiveDate
 See the live running Date on Terminal(Command Line) and terminal still available for running other commands.
+
 Step1:- Copy the livedate.sh file in system.
+
 Step2:- Execute the file with power of bash.
 	#bash livedate.sh
 OR
